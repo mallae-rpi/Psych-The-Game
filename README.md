@@ -34,7 +34,7 @@ The game features a clean, intuitive interface emphasizing accessibility. The ma
 ### Progression:
 The narrative unfolds linearly, with each successfully completed investigation phase and deduction challenge advancing the story. However, players' choices during interrogations and evidence presentations can lead to minor branching paths, offering varied dialogue and character reactions, thereby enhancing replayability. The game employs a "Confidence Meter," representing the SBPD's trust in Shawn's psychic abilities. Correct deductions and successful interrogations increase the meter, while mistakes cause it to drop. A depleted meter results in a game over, encouraging players to think critically about their choices.
 
-### Serving the Story:**
+### Serving the Story:
 These mechanics are meticulously crafted to encapsulate the spirit of *Psych*. The investigation phases allow players to experience Shawn's knack for noticing the overlooked, while the interrogation sequences highlight his charismatic, sometimes irreverent interactions with others. Deduction challenges emphasize the blend of intuition and logic that defines Shawn's investigative style. By integrating these elements, the game offers an interactive narrative that balances mystery and humor, staying true to the source material's core appeal.
 
 In summary, the adaptation's mechanics are thoughtfully designed to provide an engaging player experience that mirrors the investigative depth and comedic undertones of *Psych*, while incorporating gameplay elements inspired by the *Ace Attorney* series to create a familiar yet fresh interactive adventure.
