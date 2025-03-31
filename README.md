@@ -1,1 +1,15 @@
-# Psych-The-Game
+# Psych: The Game
+
+## Core Concept & Justification
+
+​In Psych: The Game, players step into the role of Shawn Spencer, a highly observant individual who, due to his exceptional attention to detail, becomes entangled in a criminal investigation after providing an accurate tip to the Santa Barbara Police Department (SBPD). To deflect suspicion and avoid legal repercussions for hindering an investigation, Shawn claims to possess psychic abilities. This fabrication not only alleviates immediate suspicion but also opens the door for him to collaborate with the SBPD as a consultant.
+
+The game mirrors the plot of the pilot episode, focusing on the alleged kidnapping of Camden McCallum Jr., heir to a textile fortune. Players, as Shawn, will investigate crime scenes, gather evidence, and interact with characters such as Gus, Lassiter, Juliet "Jules" O'Hara (introduced earlier in this adaptation), and Chief Vick. Through exploration and dialogue, players will uncover that Camden orchestrated his own disappearance to extort ransom money from his father. The investigation culminates in the revelation that Camden's father, upon discovering the deception, accidentally caused his son's death and attempted to cover it up. This narrative encapsulates the blend of mystery and humor that defines Psych.
+
+Gameplay mechanics are inspired by the Ace Attorney series. During investigation phases, players examine crime scenes, collect evidence, and engage in conversations to extract pertinent details. Interrogation sequences require players to analyze witness statements, identify inconsistencies, and present evidence to challenge falsehoods, advancing the narrative. This structure emphasizes critical thinking and attention to detail, core aspects of the Ace Attorney gameplay experience.
+
+The intended player experience is a harmonious blend of engaging mystery-solving and lighthearted comedy. Players immerse themselves in Shawn's world, experiencing his witty repartee, unconventional investigative methods, and dynamic relationships with characters like Gus, Lassiter, Jules, and Chief Vick. The game captures the essence of Psych's humor and character dynamics, offering a narrative-driven experience that balances intrigue with comedic elements.
+
+By adapting the pilot episode into this interactive format and incorporating the reasoning behind Shawn's psychic pretense, players engage with a compelling mystery while developing a deeper connection to the characters through direct participation in unfolding events. The inclusion of Jules from the beginning enriches the narrative, providing additional depth to character interactions and enhancing the overall storytelling experience.
+
+In summary, this adaptation faithfully translates the spirit of Psych into a visual novel, leveraging the investigative and comedic strengths of the original series while incorporating gameplay mechanics reminiscent of the Phoenix Wright: Ace Attorney franchise. The result is an interactive experience that invites players to solve mysteries, enjoy witty dialogue, and immerse themselves in the charming world of Shawn Spencer and his companions.
